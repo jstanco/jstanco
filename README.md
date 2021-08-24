@@ -21,3 +21,4 @@ I'm a software engineer developing near-real time AI systems for signal processi
 - PyTorch/LibTorch
 - CUDA
 - Intel MKL/IPP
+- Google Test/Mock
