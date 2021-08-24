@@ -1,6 +1,6 @@
 ### Hi there, I'm John. 👋
 
-I'm a software engineer developing near-real time AI systems for signal processing applications, and contributing to open source when I can!  I primarily write in C++ when developing inference-time AI deployments, although I enjoy working with Python-based tools for training, experimentation, and open source.
+I'm a software engineer developing near-real time AI systems for signal processing applications, and contributing to open source when I can!  I primarily write in C++ (and sometimes CUDA) when developing inference-time AI deployments, although I enjoy working with Python-based tools for training, experimentation, and open source.
 
 ### Languages and Tools:
 
@@ -16,9 +16,10 @@ I'm a software engineer developing near-real time AI systems for signal processi
 </br >
 </br >
 
-### Other languages/tools:
+### Other Languages/Tools:
+- CUDA
 - TensorRT
 - PyTorch/LibTorch
-- CUDA
+- Numpy/Scipy
 - Intel MKL/IPP
 - Google Test/Mock
