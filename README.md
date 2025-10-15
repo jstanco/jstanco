@@ -1,1 +1,1 @@
-CTO @ [BeSound](https://besoundbreast.com) working to revolutionize breast imaging
+Working to revolutionize breast imaging
